@@ -7,7 +7,7 @@ Um breve resumo sobre o meus estudos e o que gosto de fazer no meu tempo livre.
 || Jornada  Acadêmica e Interesses|
 |-------------------------|--------------------------|
 | Estudos |🎓 **Formação**: Bacharel em Direito pela Estácio de Sá (2015/2019) e Segurança Pública pela Universidade Federal Fluminense - UFF (2016/2019).</br> 💻 **Em transição** para Ciência da Computação (GRAN - 2023/2027), com interesse em cibersegurança, análise de dados, IA e desenvolvimento fullstack. </br>📚 Realizando **Cursos** na área de tecnologia para aprimorar conhecimentos em programação e cibersgurança: DIO, Alura, Cisco, Google, SoulCode, entre outros.  <br>🔐 Interesse em **hacking ético** e **desenvolvimento web**. |
-| Hobbies| 📚 Ler livros. <br>📺 Assistir a séries e filmes.<br>🏞️ Viajar e curtir atividades ao ar livre.<br>🎮 Jogar jogos de estratégia e simulaçãoPassar com os amigos.<br>🍳 Experimentar novas receitas na cozinha.<br>🧩 Montar quebra-cabeças desafiadores.<p>🧶 Fazer crochê, criando peças artesanais.<br>🎨 Criar artes no Canva para projetos pessoais.|.
+| Hobbies| 📚 Ler livros. <br>📺 Assistir a séries e filmes.<br>🏞️ Viajar e curtir atividades ao ar livre.<br>🎮 Jogar jogos de estratégia e simulação com os amigos.<br>🍳 Experimentar novas receitas na cozinha.<br>🧩 Montar quebra-cabeças desafiadores.<p>🧶 Fazer crochê, criando peças artesanais.<br>🎨 Criar artes no Canva para projetos pessoais.|.
 
 ## 💬 Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/rebeccabmello)
